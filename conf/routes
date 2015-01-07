@@ -1,0 +1,2 @@
+# Hello action
+GET   /hello          controllers.Hello.sayHello
